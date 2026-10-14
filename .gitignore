@@ -1,0 +1,11 @@
+*.key
+*.crt
+*.o
+*.out
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+.vscode/
+server
