@@ -1,0 +1,7 @@
+.git
+.gitignore
+chat_app.py
+server.key
+server.crt
+README.md
+Dockerfile
